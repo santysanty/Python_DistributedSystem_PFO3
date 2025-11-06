@@ -1,0 +1,15 @@
+2025-11-06 03:20:02,961 - DEBUG - Tarea encolada: {'id': 1, 'type': 'sumar', 'data': [5, 7]}
+2025-11-06 03:20:02,962 - INFO - Procesando tarea 1: sumar
+2025-11-06 03:20:02,963 - DEBUG - Carpeta S3_PATH verificada/creada: ./s3_bucket/
+2025-11-06 03:20:02,965 - INFO - Archivo JSON guardado correctamente: ./s3_bucket/task_1.json
+2025-11-06 03:20:02,965 - INFO - Tarea 1 procesada. Resultado: 12
+2025-11-06 03:20:03,015 - DEBUG - Tarea encolada: {'id': 2, 'type': 'multiplicar', 'data': [3, 4, 2]}
+2025-11-06 03:20:03,015 - INFO - Procesando tarea 2: multiplicar
+2025-11-06 03:20:03,017 - DEBUG - Carpeta S3_PATH verificada/creada: ./s3_bucket/
+2025-11-06 03:20:03,018 - INFO - Archivo JSON guardado correctamente: ./s3_bucket/task_2.json
+2025-11-06 03:20:03,019 - INFO - Tarea 2 procesada. Resultado: 24
+2025-11-06 03:20:03,067 - DEBUG - Tarea encolada: {'id': 3, 'type': 'sumar', 'data': [10, 15, 5]}
+2025-11-06 03:20:03,067 - INFO - Procesando tarea 3: sumar
+2025-11-06 03:20:03,069 - DEBUG - Carpeta S3_PATH verificada/creada: ./s3_bucket/
+2025-11-06 03:20:03,071 - INFO - Archivo JSON guardado correctamente: ./s3_bucket/task_3.json
+2025-11-06 03:20:03,071 - INFO - Tarea 3 procesada. Resultado: 30

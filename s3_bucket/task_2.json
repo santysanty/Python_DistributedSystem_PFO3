@@ -1,0 +1,12 @@
+{
+    "task": {
+        "id": 2,
+        "type": "multiplicar",
+        "data": [
+            3,
+            4,
+            2
+        ]
+    },
+    "result": 24
+}

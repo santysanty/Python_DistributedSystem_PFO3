@@ -1,0 +1,11 @@
+{
+    "task": {
+        "id": 1,
+        "type": "sumar",
+        "data": [
+            5,
+            7
+        ]
+    },
+    "result": 12
+}
